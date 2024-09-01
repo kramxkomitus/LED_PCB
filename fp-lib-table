@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "LED_PCB")(type "KiCad")(uri "/home/kramxkomitus/workspace/LED_PCB/LED_PCB.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "LED_PCB_LIB")(type "KiCad")(uri "${KIPRJMOD}/LED_PCB_LIB.pretty")(options "")(descr ""))
+)

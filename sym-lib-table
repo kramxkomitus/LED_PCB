@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LED_BCB_LOB")(type "KiCad")(uri "${KIPRJMOD}/LED_BCB_LOB.kicad_sym")(options "")(descr ""))
+  (lib (name "LED_PCB_LIB")(type "KiCad")(uri "${KIPRJMOD}/LED_PCB_LIB.kicad_sym")(options "")(descr ""))
+)
