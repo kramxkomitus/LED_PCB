@@ -1,4 +1,4 @@
-20113803524753251
+20120705912788650
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56511,12 +56511,40 @@ LED-2020
 4
 4
 LED_PCB_LIB
+MountingHole_2.2mm_M2_ISO7380_Pad_TopOnly
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+2
+1
+LED_PCB_LIB
 SW_SP3T_PCM13
 Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
 
 0
 8
 4
+LED_PCB_LIB
+USB_C_Connector_16P_SMD
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
+LED_PCB_LIB
+USB_C_Plug_6P_QT073
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.molex.com/pdm_docs/sd/1054440001_sd.pdf
+USB Type-C Plug Edge Mount
+0
+10
+7
+LED_PCB_LIB
+USB_C_Receptacle_XKB_U262-16XN-4BVC11
+USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf
+USB C Type-C Receptacle SMD
+0
+20
+17
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
