@@ -1,6 +1,6 @@
 (footprint "USB_C_Connector_16P_SMD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 66D75392)
+  (tedit 672A3256)
   (descr "USB Type C, right-angle, SMT, https://datasheet.lcsc.com/szlcsc/1811141824_XKB-Enterprise-U262-161N-4BVC11_C319148.pdf")
   (tags "USB C Type-C Receptacle SMD")
   (attr smd)
@@ -53,6 +53,11 @@
   (pad "S1" smd rect (at 5.325 4.2 90) (size 1.5 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp eb87634c-0a24-4c22-a613-24b02cc87f42))
   (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_XKB_U262-16XN-4BVC11.wrl"
     (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "/home/kramxkomitus/workspace/LED_PCB/HRO_TYPE-C-31-M-12.step"
+    (offset (xyz -4.5 -6.75 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
